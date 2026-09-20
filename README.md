@@ -10,7 +10,7 @@
 ![Tests](https://img.shields.io/badge/tests-19%20passing-167A4A)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-**[🔗 Live demo](https://YOUR-APP.streamlit.app)** &nbsp;·&nbsp; **[🎬 Demo video](https://YOUR-VIDEO-LINK)** &nbsp;·&nbsp; Built solo for **Hack Devengers 2.0** (Open Innovation)
+**[🔗 Live demo](https://invoicekavach.streamlit.app)** &nbsp;·&nbsp; **[🎬 Demo video](https://youtu.be/GY2DfpANUiI)** &nbsp;·&nbsp; Built solo for **Hack Devengers 2.0** (Open Innovation)
 
 </div>
 
@@ -26,7 +26,8 @@ Small Indian businesses make GST invoice mistakes all the time: the wrong tax ty
 
 <div align="center">
 
-![Home screen](docs/screenshots/01-home.png)
+<img width="1917" height="907" alt="thumbnail" src="https://github.com/user-attachments/assets/9230ea58-b4ed-4ace-935e-24746f9edfd2" />
+
 
 </div>
 
@@ -86,14 +87,6 @@ InvoiceKavach is a **pre-flight check** for GST invoices. It does not create inv
 4. **You get an actionable report:** score out of 100, **ITC risk (Low / Medium / High)**, a "how to fix" list, a message you can send to the supplier on WhatsApp, and downloads as HTML (print to PDF), JSON and CSV.
 
 If the AI misreads something (blurry photo, handwriting), you can **edit the values and re-run the checks** in one click.
-
----
-
-## 📸 Screenshots
-
-| Report with a verdict stamp | Fix list with plain-language advice |
-|---|---|
-| ![Report](docs/screenshots/02-report.png) | ![Fix list](docs/screenshots/03-fix-list.png) |
 
 ---
 
@@ -344,7 +337,7 @@ invoicekavach/
 
 ## 👤 Author
 
-Built by **[Your Name]** for **Hack Devengers 2.0** (Open Innovation track).
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+Built by **Mohammad Zaid Raza** for **Hack Devengers 2.0** (Open Innovation track).
+[LinkedIn](www.linkedin.com/in/mohammad-zaid-raza)
 
 Licensed under the [MIT License](LICENSE).
